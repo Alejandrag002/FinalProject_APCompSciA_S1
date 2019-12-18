@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Counter
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Places\ the\ score\ label\ on\ FlyWorld.\r\n
+comment2.params=butterfly
+comment2.target=void\ addScore(Butterfly)
+comment2.text=\r\n\ Totals\ up\ the\ score\ of\ the\ stars\ the\ butterfly\ caught.\ If\ a\ Star\ is\ a\ Special\ Star\ AND\ its\ \r\n\ point\ Value\ is\ greater\ than\ or\ equal\ to\ 5\ points,\ its\ value\ is\ doubled,\ then\ added\ to\ the\ \r\n\ total.\ All\ other\ scores\ are\ just\ added\ to\ the\ total\ 'score'.\r\n
+numComments=3

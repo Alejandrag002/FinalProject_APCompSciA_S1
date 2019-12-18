@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Butterfly
+comment1.params=
+comment1.target=Butterfly()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ The\ Act()\ method\ for\ Butterfly\ responds\ to\ pressing\ the\ space\ bar\ and\ makes\ the\ butterfly\ \r\n\ fly\ through\ the\ Flyworld\ View.\r\n\ It\ also\ resets\ the\ speed\ at\ which\ the\ Butterfly\ Actor\ Flies\ and\ how\ it\ reacts\ to\ gravity.\ \r\n
+comment3.params=
+comment3.target=void\ gameWon()
+comment3.text=\r\n\ Presents\ the\ Game\ Complete\ icon\ when\ this\ method\ is\ called.\ \r\n
+comment4.params=
+comment4.target=void\ gameOver()
+comment4.text=\r\n\ Presents\ the\ Game\ Over\ icon\ when\ this\ method\ is\ called.\ \r\n
+comment5.params=
+comment5.target=boolean\ gameState()
+comment5.text=\r\n\ Determines\ when\ the\ Butterfly\ has\ intersected\ with\ a\ line\ or\ crashed\ to\ the\ ground\ leading\ \r\n\ to\ a\ game\ over.\r\n
+comment6.params=
+comment6.target=void\ addStar()
+comment6.text=\r\n\ When\ the\ Butterfly\ intersects\ with\ a\ Star,\ the\ Star\ object\ is\ added\ to\ a\ set\ of\ stars\ that\ \r\n\ the\ Butterfly\ has\ ran\ into.\ Print\ statements\ were\ used\ to\ keep\ track\ of\ collected\ stars.\ \r\n
+numComments=7

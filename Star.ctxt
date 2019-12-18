@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Star
+comment1.params=
+comment1.target=Star()
+comment1.text=\r\n\ Star\ Constructor\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Sets\ Star\ image.\r\n
+comment3.params=
+comment3.target=void\ randomPointVal()
+comment3.text=\r\n\ Randomly\ assigns\ a\ point\ value\ to\ a\ star.\ \r\n
+comment4.params=
+comment4.target=void\ isSpecialStar()
+comment4.text=\r\n\ Randomly\ assigns\ a\ boolean\ to\ specialStar.\ \r\n
+numComments=5
